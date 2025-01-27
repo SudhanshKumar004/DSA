@@ -10,7 +10,7 @@ void insrt(int arr[] , int s)
             int tmp;
             tmp = arr[mn-1];
             arr[mn-1] = arr[mn];
-            arr[mn] = tmp;
+            arr[mn] = tmp;0
             mn--;
         }
     }
