@@ -41,7 +41,7 @@ int main(){
 
 //time complexity = order of n2
 //structure based;
-//substract and conquer;
+//subtract and conquer;
 //stability = no;
 //space complexity = order of 1;
-// inplace = yes;
+// in place = yes;
