@@ -36,7 +36,7 @@ void qcksort(int arr[], int low , int high)
     if(low<high)
     {
         pv=part(arr,low,high);
-        qcksort(arr,0,pv-1);
+        qcksort(arr,low,pv-1);
         qcksort(arr,pv+1,high);
     }
 }
