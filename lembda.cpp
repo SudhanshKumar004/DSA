@@ -22,4 +22,4 @@ int main()
 }
 
 
-//all_of(); none_of(); any_of();  returns bool  v alue
+//all_of(); none_of(); any_of();  returns bool value
