@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    multiset<int>s{5,3,8,6,1,9,9};
+    multiset<int>s{5,3,8,6,1,9,9} ;
 
     for(auto p:s)
     {
